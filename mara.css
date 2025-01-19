@@ -30,11 +30,13 @@ li{
     width: 300px;
     height: 300px;
     border-radius: 20px;
-    float: right;
+    float: left;
 }
 .SECTION1 p{
     width: 400px;
     color:black;
+    font-style: oblique;
+    
 }
  .SECTION2 {
     display: flex;
@@ -44,10 +46,12 @@ li{
     width: 300px;
     height: 300px;
     border-radius: 20px;
-    float: right;
+    float: left;
  }
  .SECTION2 p{
     width: 400px;
+    font-style: oblique;
     
  }
+  mara
  
