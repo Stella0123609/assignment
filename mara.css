@@ -1,0 +1,47 @@
+header{
+    background-color:bisque;
+    display: flex;
+}
+header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+ul{
+    float: right;
+    display: flex;
+    gap: 100px;
+}
+li{
+    justify-content: 100px;
+   list-style: none;
+}
+ 
+ .SECTION1{
+    display: flex;
+    background-color: beige;
+ }
+ 
+ .SECTION1 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.SECTION1 p{
+    width: 400px;
+    color:black;
+}
+ .SECTION2 {
+    display: flex;
+   background-color: azure;
+ }
+ .SECTION2 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+ }
+ .SECTION2 p{
+    width: 400px;
+    
+ }
+ 
