@@ -15,6 +15,7 @@ https://miro.com/app/board/uXjVLsV_K3w=/?share_link_id=934029524364
 
 # DESCRIPTION OF THE PROJECT
 Experinces captured in photography at masaai mara game reserve
+# License
 MIT License
 
 Copyright (c) [2025] [StellaNjau]
