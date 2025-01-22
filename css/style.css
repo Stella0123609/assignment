@@ -1,73 +1,61 @@
-*{
-    margin: 0%;
-    padding: 0%;
+* {
+  margin: 0%;
+  padding: 0%;
 }
-header img{
-   
-   color: black;
-   padding-left: 40px;
-   
-   width: 40px;
-   height: 40px;
+header img {
+  color: black;
+  padding-left: 40px;
+
+  width: 40px;
+  height: 40px;
 }
 header {
-   display: flex;
-   justify-content: space-between;
-    
-
+  display: flex;
+  justify-content: space-between;
 }
-ul{
- 
-   display: flex;
-   justify-content: flex-end;
-   color:#395150 ;
-   font-size: medium;
-   list-style: none;
-   margin-top: 10px;
-   margin-right: 20px;
-
+ul {
+  display: flex;
+  justify-content: flex-end;
+  color: #395150;
+  font-size: medium;
+  list-style: none;
+  margin-top: 10px;
+  margin-right: 20px;
 }
-li{
-   margin-left:20px ;
+li {
+  margin-left: 20px;
 }
- img {
-    width: 100px;
-    height: 200px;
- }
- .Aboutme h1{
-    text-align: center;
- }
- .Aboutme{
-    overflow: hidden;
-    margin-bottom: 10px;
- }
- 
- .Aboutme img{
-    float: left;
- }
-
- .photo-mara img{
-    float: left;
-    margin-top: 5px;
-    margin-bottom: 5px;
- }
- .photo-mara{
-    clear: left;
-
- }
- .moreinfo{
-    clear: left;
- }
- .Photos p{
-    border: 1px solid red;
-    width: 200px;
- }
-figcaption{
-    clear: left;
+.aboutme {
+  background-color: #32ada7;
 }
-.Photos{
-    border: 1px solid red;
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly
+.aboutme_header {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.aboutme_content {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.aboutme_content img {
+  height: 200px;
+  border-radius: 16px;
+  margin-left: 20px;
+}
+.aboutme_content p {
+  width: 300px;
+}
+.Photos {
+  border: 1px solid red;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.photo_mara {
+  border: 1px solid red;
+}
+.photo_mara_img img {
+  height: 200px;
 }
