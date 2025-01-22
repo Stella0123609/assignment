@@ -48,14 +48,24 @@ li {
   width: 300px;
 }
 .Photos {
-  border: 1px solid red;
   width: 100%;
   display: flex;
   justify-content: space-evenly;
+  margin-top: 20px;
 }
 .photo_mara {
-  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 275px;
 }
 .photo_mara_img img {
-  height: 200px;
+  height: 150px;
+  margin: 10px;
+  border-radius: 16px;
+}
+.photo_mara_p {
+  font-size: small;
+  margin: 10px;
 }
