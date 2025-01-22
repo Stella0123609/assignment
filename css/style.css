@@ -25,7 +25,7 @@ ul {
 li {
   margin-left: 20px;
 }
-.aboutme {
+#aboutme {
   background-color: #32ada7;
 }
 .aboutme_header {
@@ -47,7 +47,7 @@ li {
 .aboutme_content p {
   width: 300px;
 }
-.Photos {
+#photos {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
@@ -69,3 +69,7 @@ li {
   font-size: small;
   margin: 10px;
 }
+.moreinfo {
+  display: flex;
+}
+#
