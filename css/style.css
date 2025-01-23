@@ -16,18 +16,22 @@
 #home ul {
   display: flex;
   justify-content: flex-end;
-  color: #395150;
   font-size: medium;
   list-style: none;
   margin-right: 20px;
   text-decoration: none;
 }
+#home ul li {
+  margin-left: 20px;
+}
 #home ul li a {
   text-decoration-line: none;
   text-decoration: none;
+  color: #76807f;
 }
-#home ul li {
-  margin-left: 20px;
+#home ul li a:hover {
+  color: #395150;
+  transition: all 0.5s ease 0s;
 }
 #aboutme {
   background-color: #32ada7;
@@ -46,10 +50,12 @@
 .aboutme_content img {
   height: 200px;
   border-radius: 16px;
-  margin-left: 20px;
+  margin-left: 100px;
 }
 .aboutme_content p {
-  width: 300px;
+  width: 800px;
+  font-size: large;
+  margin-left: 60px;
 }
 #photos {
   width: 100%;
@@ -86,4 +92,33 @@
 }
 #contacts_links img {
   width: 20px;
+}
+.form {
+  
+  justify-content: space-evenly;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
+.form h2 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+form button {
+  background-color: #e2ec1b;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: medium;
+  cursor: pointer;
+  margin-top: 10px;
+}label {
+  font-size: medium;
 }
