@@ -1,21 +1,22 @@
 # ASSIGNMENT
 
-# Title 
+### TITLE
 "EXPERIENCE THE WONDER OF THE MARA"
 
-# AUTHOR 
-Stella Njau
+### AUTHOR 
+Name:Stella Njau.   
+Email:smaries6016@gmail.com 
 
-# lANGUAGES USED
-html file
-css file
+### lANGUAGES USED
+html:for structuring the content of the webge  
+css :for styling the layout of the user interface
 
-# DESIGN OF THE PROJECT
-https://miro.com/app/board/uXjVLsV_K3w=/?share_link_id=934029524364
+### DESIGN OF THE PROJECT
+https://www.figma.com/design/J1PJTdxjADmoFpoP8dJqty/assignment?node-id=0-1&t=OPJaQrrSFArtTnyI-1
 
-# DESCRIPTION OF THE PROJECT
-Experinces captured in photography at masaai mara game reserve
-# License
+### DESCRIPTION OF THE PROJECT
+Experinces captured in photography at masaai mara game reserve.
+### LICENCE
 MIT License
 
 Copyright (c) [2025] [StellaNjau]
